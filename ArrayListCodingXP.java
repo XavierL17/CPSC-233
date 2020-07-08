@@ -59,5 +59,6 @@ public class ArrayListCodingXP {
 		String lastString = strs.get(strs.size()-1);
 		System.out.println(lastString);	
 		return lastString;
+		//this was typed online in GitHub
 	}
 }
